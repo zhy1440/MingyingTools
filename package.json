@@ -1,0 +1,19 @@
+{
+  "name": "minying",
+  "version": "1.0.0",
+  "description": "merge toubiao & jiesuan to one excel",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "js-xlsx": "^0.8.22",
+    "line-reader": "^0.4.0",
+    "n-readlines": "^1.0.0",
+    "xlsx": "^0.15.4",
+    "xlsx-style": "^0.8.13"
+  }
+}
